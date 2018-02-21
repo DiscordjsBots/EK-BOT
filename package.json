@@ -1,0 +1,23 @@
+{
+  "name": "EK_BOT",
+  "version": "1.0.0",
+  "description": "A Discord.js bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "background": "",
+    "config": "",
+    "debug": "",
+    "dev": "gulp --dev",
+    "precommit": "gulp lint"
+  },
+  "author": "Enzo",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "latest"  
+  },
+  
+  "devDependencies": {
+    "discord.js": "latest"
+  }
+}
